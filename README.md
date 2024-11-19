@@ -36,18 +36,15 @@ and success criteria  of our project.
 
 <img src ="https://github.com/dhruba79/Sales-insights-Power-BI-Dashboard/blob/main/Screenshots/Data%20Model.png?raw=true">
 
-ce, etc.
-
 ###  Insights
   
-1. In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M.
-   in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
-2. In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 520M and total contribution of 52.8% with total revenue but if you look at the profit            margin Delhi NCR is generating only 2.3% profit margin.
-3. If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can      check the Profit Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.
-4. In 4 years Bengaluru generating the lowest profit margin of -20.8%.if we can check the Profit Contribution % by Market then here also Bengaluru is the Lower with      -0.3% of total contribution in total profit.
-5. In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
-6. In our top 5 products,the Prod318 is our highest product has generated total  ₹ 69M revenue generated in 4 years.
-7. In product type Distribution has generated the revenue of ₹494M and ownbrand revenue is ₹494M generated in entire 4 years.
+1. In this dashboard, we can see company has generated total revenue in 4 years ₹516M, total profit margin ₹ 12.6M, Profit margin% 2.44%, Sales Qty ₹2M.
+   in 2020 company has generated total revenue of ₹ 77M by selling a total of 291K and earned a profit of ₹ 1.41M.
+2. In 4 years Delhi NCR is our largest market in terms of revenue with ₹ 243M and total contribution of 47.04% with total revenue but if you look at the profit            margin Delhi NCR is generating only 1.06% profit margin.
+3. If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can      check the Profit Contribution % by Market then here again Delhi NCR  is the largest player with 28.38% of total contribution in total profit.
+4. In 4 years Bengaluru generating the lowest profit margin of -27.24%.if we can check the Profit Contribution % by Market then here also Bengaluru is the Lower with      -0.71% of total contribution in total profit.
+5. In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 172M revenue generated in 4 years.
+6. In our top 5 products,the Prod040 is our highest product has generated total  ₹ 24M revenue generated in 4 years.
 7. Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in              April 2020.
   
 ### Key Learnings
@@ -77,6 +74,13 @@ ce, etc.
  -----------
  
   <img src="https://github.com/dhruba79/Sales-insights-Power-BI-Dashboard/blob/main/Screenshots/Sales%20Profit%20Analysis.png?raw=true">
+
+
+   #### Dashboard Profit Analysis
+ 
+ -----------
+ 
+  <img src="https://github.com/dhruba79/Sales-insights-Power-BI-Dashboard/blob/main/Screenshots/2020%20Profit%20Analysis.png?raw=true">
 
 
 
