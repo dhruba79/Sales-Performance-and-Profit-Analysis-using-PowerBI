@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76e8fe32-4abd-49e2-a857-bbde49d2a6cb)# Sales-insights-Power-BI-Dashboard
+
 ## Sales insights project Powerbi Dashboard
 
 ## Problem statement
