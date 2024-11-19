@@ -69,14 +69,14 @@ ce, etc.
  #### Dashboard Performance Insights
 
 -------
- <img src="https://github.com/dhruba79/Sales-insights-Power-BI-Dashboard/blob/main/Screenshots/Sales%20Profit%20Analysis.png?raw=true">
+ <img src="https://github.com/dhruba79/Sales-insights-Power-BI-Dashboard/blob/main/Screenshots/Sales%20Prformence%20Analysis.png?raw=true">
  
 
  #### Dashboard Profit Analysis
  
  -----------
  
-  <img src="">
+  <img src="https://github.com/dhruba79/Sales-insights-Power-BI-Dashboard/blob/main/Screenshots/Sales%20Profit%20Analysis.png?raw=true">
 
 
 
